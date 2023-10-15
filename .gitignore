@@ -5,6 +5,9 @@
 .docusaurus
 .cache-loader
 
+# Build directory
+/build
+
 # Misc
 .DS_Store
 .env.local
